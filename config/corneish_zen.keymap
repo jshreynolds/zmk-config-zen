@@ -47,7 +47,7 @@
            &kp Q       &kp W      &kp F      &kp P       &kp B      &kp J &kp L        &kp U      &kp Y      &kp SEMI       
            &hm LCTRL A &hm LALT R &hm LGUI S &hm LSHFT T &kp G      &kp M &hm RSHFT N  &hm RGUI E &hm RALT I &hm RCTRL O   
            &kp Z       &kp X      &kp C      &kp D       &kp V      &kp K &kp H        &kp COMMA  &kp DOT    &kp FSLH             
-                                           &trans &lm LOWER SPACE &lm LOWER SPACE    &lm UPPER SPACE &lm UPPER SPACE $trans
+                                           &trans &lm LOWER SPACE &lm LOWER SPACE    &lm UPPER SPACE &lm UPPER SPACE &trans
                         >;
                 };
                 qwerty_layer {
